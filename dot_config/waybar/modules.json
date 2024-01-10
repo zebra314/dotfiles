@@ -172,9 +172,10 @@
     },
 
     "custom/w11": {
-        "format": "",
+        "format": "",
         "on-click": "",
-        "tooltip": false
+        "tooltip": false,
+        "on-click": "~/.config/hypr/scripts/init_windows_vm.sh"
     },
 
     // Groups
