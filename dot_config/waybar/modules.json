@@ -171,6 +171,12 @@
         "tooltip": false
     },
 
+    "custom/w11": {
+        "format": "",
+        "on-click": "",
+        "tooltip": false
+    },
+
     // Groups
 
     "group/hardware":{
@@ -210,6 +216,7 @@
     "group/gadget":{
         "orientation": "inherit",     
         "modules": [
+            "custom/w11",
             "custom/chatgpt",
             "custom/spotify"
         ]

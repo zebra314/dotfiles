@@ -168,7 +168,7 @@ tooltip {
 /* -----------------------------------------------------
  * Custom Modules
  * ----------------------------------------------------- */
-
+#custom-w11,
 #custom-spotify,
 #custom-chatgpt {
     color: @foreground;
