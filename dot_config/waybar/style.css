@@ -132,7 +132,7 @@ tooltip {
 }
 
  /* -----------------------------------------------------
- * taskbar
+ * Taskbar
  * ----------------------------------------------------- */
 
 #taskbar {
@@ -186,13 +186,12 @@ tooltip {
 }
 
 #custom-setting_icon,
+#custom-hardware_icon,
 #network,
 #bluetooth,
 #backlight,
 #pulseaudio.volume,
 #pulseaudio.microphone,
-#custom-hardware_icon,
-#custom-hardware_icon,
 #temperature,
 #cpu,
 #memory,
