@@ -173,7 +173,6 @@
 
     "custom/w11": {
         "format": "",
-        "on-click": "",
         "tooltip": false,
         "on-click": "~/.config/hypr/scripts/init_windows_vm.sh"
     },
@@ -198,7 +197,7 @@
     "group/setting":{
         "orientation": "inherit",
         "drawer": {
-            "transition-duration": 300,
+            "transition-duration": 350,
             "children-class": "not-memory",
             "transition-left-to-right": false
         },        
