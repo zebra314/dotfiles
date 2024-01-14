@@ -1,0 +1,17 @@
+/**
+ *
+ * Author : Alfonso Lin (zebra314)
+ * Github : @zebra314
+ * 
+ * Colors
+ **/
+
+* {{
+    background:     #{background.strip};
+    background-alt: #{color0.strip};
+    foreground:     #{foreground.strip};
+    selected:       #{color5.strip};
+    active:         #{color1.strip};
+    urgent:         #{color3.strip};
+}}
+
