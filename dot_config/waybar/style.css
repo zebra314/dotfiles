@@ -41,6 +41,8 @@ tooltip {
     margin-right: 7px;
     background: @background;
     border-radius: 20px;
+    font-weight: normal;
+    font-style: normal;
 }
 
 #workspaces button {
@@ -55,6 +57,8 @@ tooltip {
     margin-right: 5px;
     transition: all 0.3s ease-in-out;
     opacity:0.4;
+
+    text-shadow: 0px 0px 3px black;
 }
 
 #workspaces button.active {
@@ -63,18 +67,21 @@ tooltip {
     min-width: 40px;
     transition: all 0.3s ease-in-out;
     opacity:1.0;
+    text-shadow: 0px 0px 3px black;
 }
 
 #workspaces button.focused {
     color: @foreground;
     background: @foreground;
     border-radius: 10px;
+    text-shadow: 0px 0px 3px black;
 }
 
 #workspaces button.urgent {
     color: #11111b;
     background: #a6e3a1;
     border-radius: 10px;
+    text-shadow: 0px 0px 3px black;
 }
 
 #workspaces button:not(.active):hover {
@@ -84,6 +91,7 @@ tooltip {
     min-width: 30px;
     transition: all 0.3s ease-in-out;
     opacity:0.7;
+    text-shadow: 0px 0px 3px black;
 }
 
 /* -----------------------------------------------------
