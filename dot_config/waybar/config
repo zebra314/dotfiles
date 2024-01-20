@@ -11,12 +11,12 @@
     "include": ["~/.config/waybar/modules.json"],
     
     "modules-left": [
-        "clock",
-        "group/gadget",
-        "wlr/taskbar"
+        "hyprland/workspaces",
+        "wlr/taskbar",
+        "group/gadget"
     ],
 
-    "modules-center": ["hyprland/workspaces"],
+    "modules-center": ["clock"],
 
     "modules-right": [
         "group/hardware",
