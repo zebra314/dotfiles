@@ -177,6 +177,12 @@
         "on-click": "~/.config/hypr/scripts/init_windows_vm.sh"
     },
 
+    "custom/todo": {
+        "format": "",
+        "tooltip": false,
+        "on-click": "chromium --app=https://to-do.live.com/tasks/important"
+    },
+
     // Groups
 
     "group/hardware":{
@@ -218,6 +224,7 @@
         "modules": [
             // "custom/w11",
             "custom/chatgpt",
+            "custom/todo",
             "custom/spotify"
         ]
     }
