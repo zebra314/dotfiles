@@ -38,7 +38,7 @@ tooltip {
 
 #workspaces {
     margin-left: 7px;
-    margin-right: 7px;
+    margin-right: 5px;
     background: @background;
     border-radius: 20px;
     font-weight: normal;
@@ -47,7 +47,7 @@ tooltip {
 
 #workspaces button {
     padding: 0px 5px;
-    margin: 4px 3px;
+    margin: 4px 5px;
     border-radius: 15px;
     border: 0px;
 
@@ -99,8 +99,8 @@ tooltip {
  * ----------------------------------------------------- */
 
 #gadget {
-    margin-left: 3px;
-    margin-right: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
     background: @background;
     border-radius: 20px;
 }
@@ -132,7 +132,7 @@ tooltip {
  * ----------------------------------------------------- */
 
 #clock {
-    margin-left: 7px;
+    margin-left: 5px;
     margin-right: 5px;
     padding: 0px 5px;
     background-color: @background;
@@ -144,7 +144,7 @@ tooltip {
  * ----------------------------------------------------- */
 
 #taskbar {
-    margin-left: 7px;
+    margin-left: 5px;
     margin-right: 5px;
     padding: 0px 5px;
     background-color: @background;
