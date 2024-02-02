@@ -17,3 +17,4 @@ echo "Config: $config_file"
 echo "Style: $style_file"
 
 waybar -c ~/.config/waybar/$config_file -s ~/.config/waybar/$style_file &
+
