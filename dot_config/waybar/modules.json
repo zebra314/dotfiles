@@ -36,7 +36,8 @@
 
     "clock": {
         "format": "{: %I:%M  %m/%d}",
-        "tooltip-format": "<tt>{calendar}</tt>"
+        "tooltip-format": "<tt>{calendar}</tt>",
+        "on-click": "chromium --app=https://calendar.google.com/"
     },
 
     // Hardware Modules
