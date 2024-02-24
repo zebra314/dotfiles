@@ -35,7 +35,9 @@
     // Center Modules
 
     "clock": {
-        "format": "{: %I:%M  %m/%d}",
+        // change the language of %a into english
+        "format": "{: %I:%M  %m/%d  %a}",
+
         "tooltip-format": "<tt>{calendar}</tt>",
         "on-click": "chromium --app=https://calendar.google.com/"
     },
