@@ -205,13 +205,13 @@
 
     "group/setting":{
         "orientation": "inherit",
-        "drawer": {
-            "transition-duration": 350,
-            "children-class": "not-memory",
-            "transition-left-to-right": false
-        },        
+        // "drawer": {
+        //     "transition-duration": 350,
+        //     "children-class": "not-memory",
+        //     "transition-left-to-right": false
+        // },        
         "modules": [
-            "custom/setting_icon",
+            // "custom/setting_icon",
             "network",
             "bluetooth",
             "backlight",
